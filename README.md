@@ -14,7 +14,7 @@ Es un juego serio enfocado a que los adolescentes sean conscientes de que a vece
 
 Es una **propuesta divertida** en la que el jugador, a demás de empatizar con el protagonista adolescente y sus experiencias, **vivirá una historia única que le hará entender la importancia de seguir adelante cuando parece que todo va mal**.
 
-El proyecto cuenta con una liencia [GNU General Public License v3.0](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/LICENSE), pudiendo así ser distribuida de forma libre siempre y cuando sea sin ánimo de lucro.
+El proyecto cuenta con una liencia [](), pudiendo así ser distribuida de forma libre siempre y cuando sea sin ánimo de lucro.
 
 ## Importación del proyecto
 
