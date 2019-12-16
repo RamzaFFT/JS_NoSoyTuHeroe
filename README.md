@@ -25,7 +25,7 @@ https://drive.google.com/open?id=1oUE56ILJh3X3vAXqK_ZjNBj-MNFMfIRf
 
 ## GDD
 
-[GDD de Levamiento en apuros](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Levantamiento%20en%20apuros.pdf)
+[GDD de No Soy Tu Héroe](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Levantamiento%20en%20apuros.pdf)
 
 
 GDD resumido de los aspectos más esenciales del juego.
@@ -36,7 +36,7 @@ GDD resumido de los aspectos más esenciales del juego.
 
 ## Vídeo gameplay del juego
 
-[Gameplay de Levamiento en apuros](https://drive.google.com/file/d/1JM9n8AWMAnktst-vf4cEjLe6MiMgUa6t/view?usp=sharing)
+[Gameplay de No Soy Tu Héroe](https://drive.google.com/file/d/1JM9n8AWMAnktst-vf4cEjLe6MiMgUa6t/view?usp=sharing)
 
 ## Créditos
 
