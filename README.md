@@ -8,7 +8,7 @@ Consiste en crear un juego de aventura y puzzles. (herramienta de Unity del grup
 ![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Credits%26References/Logo.png)
 
 ## Introducción
-**LEVANTAMIENTO EN APUROS** es el juego que hemos creado el Grupo 1 para la práctica 3 de la asignatura **JUEGOS SERIOS** en la **Universidad Complutense de Madrid**. 
+**NO SOY TU HÉROE** es el juego que hemos creado el Grupo 1 para la práctica 3 de la asignatura **JUEGOS SERIOS** en la **Universidad Complutense de Madrid**. 
 
 Es un juego serio enfocado a que los adolescentes sean conscientes de que a veces la vida puede ser complicada, pero que siempre hay que seguir adelante. Trata de empatizar con el concepto de que en la adolescencia, cualquier cosa pequeña puede hacer que tu mundo se venga encima. Pero que, con la ayuda de la gente que te quiere, puedes salir adelante con cualquier problema que te surja.
 
