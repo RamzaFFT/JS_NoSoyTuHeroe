@@ -53,6 +53,8 @@ GDD resumido de los aspectos más esenciales del juego.
 
 ![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Credits%26References/NoSoyTuHeroeCredits.png)
 
+
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
