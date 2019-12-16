@@ -25,18 +25,18 @@ https://drive.google.com/open?id=1oUE56ILJh3X3vAXqK_ZjNBj-MNFMfIRf
 
 ## GDD
 
-[GDD de No Soy Tu Héroe](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Levantamiento%20en%20apuros.pdf)
+[GDD de No Soy Tu Héroe](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/GDD_NoSoyTuHe%CC%81roe.pdf)
 
 
 GDD resumido de los aspectos más esenciales del juego.
 
-**Imagen de ejemplo:**
-![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/EjemploGDD.png)
+**Imagen de ejemplo de GDD:**
+![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Credits%26References/EjemploGDD.png)
 
 
 ## Vídeo gameplay del juego
 
-[Gameplay de No Soy Tu Héroe](https://drive.google.com/file/d/1JM9n8AWMAnktst-vf4cEjLe6MiMgUa6t/view?usp=sharing)
+[Gameplay de No Soy Tu Héroe](https://drive.google.com/open?id=1Qp7m82yMyrlVQhJrrqNPm4Yl-kGKlAkt)
 
 ## Créditos
 
