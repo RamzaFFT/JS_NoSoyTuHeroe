@@ -44,13 +44,6 @@ GDD resumido de los aspectos más esenciales del juego.
 
 
 
-Shield: [![NC BY-SA 4.0][nc-by-sa-shield]][nc-by-sa]
-
-This work is licensed under a [Creative Commons Non Commercial Attribution-ShareAlike 4.0
-International License][cc-by-sa].
-
-[![NC BY-SA 4.0][nc-by-sa-image]][cc-by-sa]
-
 
 
 ![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Licencias/Creative-Commons-Attribution-NonCommercial-ShareAlike-40-International-Public.png)
