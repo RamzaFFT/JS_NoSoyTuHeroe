@@ -8,7 +8,7 @@ Proyecto educativo Juegos Serios Facultad de Informática UCM
 Juan Bosque Romero | Álvaro Carrasco Jurado | Guillermo Monserrate Sánchez | Pablo Martín Navarro | Gonzalo Sanz Rodríguez
 
 
-![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Credits%26References/Logoandcredits.png)
+![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Credits%26References/LogoGithub.png)
 
 ## Introducción
 **NO SOY TU HÉROE** es el juego que hemos creado el Grupo 1 para la práctica 3 de la asignatura **JUEGOS SERIOS** en la **Universidad Complutense de Madrid**. 
