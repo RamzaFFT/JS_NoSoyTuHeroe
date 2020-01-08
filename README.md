@@ -21,13 +21,6 @@ Es una **propuesta divertida** en la que el jugador, a demás de empatizar con e
 
 El proyecto cuenta con una liencia [CC Attribution-ShareAlike 4.0 International](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Licencias/LICENSE-CC-BY-SA), pudiendo así ser distribuida de forma libre siempre y cuando sea sin ánimo de lucro, y con la atribución debida.
 
-## Importación del proyecto
-
-Enlace a google drive para bajar el proyecto entero: 
-
-https://drive.google.com/open?id=1oUE56ILJh3X3vAXqK_ZjNBj-MNFMfIRf
-
-
 ## GDD
 
 [GDD de No Soy Tu Héroe](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/GDD_NoSoyTuHe%CC%81roe.pdf)
@@ -40,6 +33,16 @@ https://drive.google.com/open?id=1oUE56ILJh3X3vAXqK_ZjNBj-MNFMfIRf
 ## Vídeo gameplay del juego
 
 [Gameplay de No Soy Tu Héroe](https://drive.google.com/open?id=1Qp7m82yMyrlVQhJrrqNPm4Yl-kGKlAkt)
+
+## Importación del proyecto
+
+Enlace a google drive para bajar el proyecto entero: 
+
+https://drive.google.com/open?id=1oUE56ILJh3X3vAXqK_ZjNBj-MNFMfIRf
+
+## Juego completo
+
+https://drive.google.com/file/d/1W3W5rCHJcJ_LJHocK_vKj3zYKfk4iHEY/view?usp=sharing
 
 ## Créditos
 
