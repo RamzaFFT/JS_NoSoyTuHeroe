@@ -3,7 +3,10 @@ Proyecto educativo Juegos Serios Facultad de Informática UCM
 
 ![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Cre%CC%81ditos%20y%20Referencias/InfoProyectoJS_L.png)
 
-Consiste en crear un juego de aventura y puzzles. (herramienta de Unity del grupo eUCM Development Community).
+Miembros del grupo |             |            |
+------------ | ------------- | ------------ |
+Guillermo Monserrate Sánchez | Pablo Martín Navarro | Gonzalo Sanz Rodríguez
+Juan Bosque Romero | Álvaro Carrasco Jurado |
 
 ![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Credits%26References/Logo.png)
 
@@ -44,6 +47,6 @@ GDD resumido de los aspectos más esenciales del juego.
 
 
 
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-
-![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Licencias/Creative-Commons-Attribution-NonCommercial-ShareAlike-40-International-Public.png)
+Con licencia ![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Licencias/Creative-Commons-Attribution-NonCommercial-ShareAlike-40-International-Public.png)
