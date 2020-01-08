@@ -38,7 +38,7 @@ El proyecto cuenta con una liencia [CC Attribution-ShareAlike 4.0 International]
 
 Enlace a google drive para bajar el proyecto entero: 
 
-https://drive.google.com/open?id=1oUE56ILJh3X3vAXqK_ZjNBj-MNFMfIRf
+https://drive.google.com/file/d/1oUE56ILJh3X3vAXqK_ZjNBj-MNFMfIRf/view?usp=sharing
 
 ## Juego completo
 
