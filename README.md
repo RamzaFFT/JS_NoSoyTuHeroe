@@ -31,8 +31,6 @@ https://drive.google.com/open?id=1oUE56ILJh3X3vAXqK_ZjNBj-MNFMfIRf
 [GDD de No Soy Tu Héroe](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/GDD_NoSoyTuHe%CC%81roe.pdf)
 
 
-GDD resumido de los aspectos más esenciales del juego.
-
 **Imagen de ejemplo de GDD:**
 ![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Credits%26References/EjemploGDD.png)
 
