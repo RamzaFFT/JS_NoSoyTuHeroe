@@ -3,10 +3,10 @@ Proyecto educativo Juegos Serios Facultad de Informática UCM
 
 ![alt text](https://github.com/RamzaFFT/JS_uAdventure_LevantamientoEnApuros/blob/master/Cre%CC%81ditos%20y%20Referencias/InfoProyectoJS_L.png)
 
- <-> |      Miembros del grupo       |      <->      |
------------- | ------------- | ------------ |
-Pablo Martín Navarro | Guillermo Monserrate Sánchez | Gonzalo Sanz Rodríguez
-Juan Bosque Romero | Álvaro Carrasco Jurado |
+<-> | <-> |      Miembros del grupo       |      <->      |   <->      |
+------------ | ------------ | ------------ | ------------- | ------------ |
+Juan Bosque Romero | Álvaro Carrasco Jurado | Guillermo Monserrate Sánchez | Pablo Martín Navarro | Gonzalo Sanz Rodríguez
+
 
 ![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Credits%26References/Logo.png)
 
