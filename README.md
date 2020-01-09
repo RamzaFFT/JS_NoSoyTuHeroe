@@ -44,6 +44,10 @@ https://drive.google.com/file/d/1oUE56ILJh3X3vAXqK_ZjNBj-MNFMfIRf/view?usp=shari
 
 https://drive.google.com/file/d/1W3W5rCHJcJ_LJHocK_vKj3zYKfk4iHEY/view?usp=sharing
 
+## Presentación del juego
+
+[Presentación](https://drive.google.com/file/d/1_V8qRUF2f05HXDi63YL007jge88ywg1d/view?usp=sharing)
+
 ## Créditos
 
 ![alt text](https://github.com/RamzaFFT/JS_NoSoyTuHeroe/blob/master/Credits%26References/NoSoyTuHeroeCredits.png)
